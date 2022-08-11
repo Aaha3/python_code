@@ -29,6 +29,5 @@ def main_block():
         print('Sorry Wrong Input')
 
 if __name__ == "__main__":
-    # main_block()
-    if keyboard.is_pressed(' '):
-        print('typed space')
+    main_block()
+    
